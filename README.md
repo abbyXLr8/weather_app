@@ -1,16 +1,5 @@
 # flutter_application_http
 
-A new Flutter project.
+url for api: https://api.weatherapi.com/v1/forecast.json?q=delhi&day_Element&key=e031c9f97a2b4d12957153940251801
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
